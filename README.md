@@ -31,3 +31,12 @@ Then run build command
     
 Then run build command
   ionic cordova build android
+  
+
+# output will be
+
+![login-screen](./login.png)
+
+![admin-screen](./admin-chat.png)
+
+![user-screen](./user-chat.png)
