@@ -79,4 +79,9 @@ export class ChatRoomPage implements OnInit {
     this.api.admin ? this.unsubscribe() : '';
     console.log('unsubscribe successfully');
   }
+
+  formatDate(message: any) {
+    let date = message['timestamp'] ? message['timestamp'].toDate() : new Date();
+    return this.api.formatAMPM(date);
+  }
 }

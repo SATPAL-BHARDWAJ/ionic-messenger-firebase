@@ -20,7 +20,7 @@
             <ion-card-content style="padding-bottom: 0px;">
             {{ mess.msg }}  
             </ion-card-content>
-            <p text-right no-margin light-time>{{ api.formatAMPM(mess.timestamp.toDate()) }}</p>
+            <p text-right no-margin light-time>{{ formatDate(mess) }}</p>
         </ion-card>
     </div>
     <div flex *ngIf="mess.type!=userType">
@@ -28,7 +28,7 @@
             <ion-card-content style="padding-bottom: 0px;">
             {{ mess.msg }}  
             </ion-card-content>
-            <p text-right no-margin light-time>{{ api.formatAMPM(mess.timestamp.toDate()) }}</p>
+            <p text-right no-margin light-time>{{ formatDate(mess) }}</p>
         </ion-card>
     </div>
   </div>
