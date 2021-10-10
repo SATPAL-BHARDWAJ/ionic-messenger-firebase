@@ -34,9 +34,17 @@ Then run build command
   
 
 # output will be
+<img src="login.png" alt="login-screen" width="300"/> <img src="admin-chat.png" alt="admin-screen" width="300"/> <img src="user-chat.png" alt="user-screen" width="300"/>
 
-![login-screen](./login.png)
+# Live Demo
+[Ionic 4 Firebase chat applicaiton](https://sbsharma.com/ionic-4-chat-app-firebase/)
 
-![admin-screen](./admin-chat.png)
+# Contributor
+[Satpal Bhardwaj](https://sbsharma.com/ionic/)
 
-![user-screen](./user-chat.png)
+# Follow us
+<a target="_blank" href="https://www.facebook.com/Sbsharma-2798360506847821"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a target="_blank" href="https://twitter.com/Ss101Bhardwaj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/satpal-bhardwaj-5a76b4134"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://codepen.io/sb_sharma"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+
