@@ -43,7 +43,7 @@ Then run build command
 [Satpal Bhardwaj](https://sbsharma.com/ionic/)
 
 # Support us
-To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission. Here is my Hotinger affilate link [Hostinger](https://www.hostg.xyz/SH6KQ).
+<a href="https://www.hostg.xyz/SH6KQ"><img src="Support us.png" alt="To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission"/></a>
 
 # Follow us
 <a target="_blank" href="https://www.facebook.com/Sbsharma-2798360506847821"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
